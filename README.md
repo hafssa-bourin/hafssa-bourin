@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafssa-bourin
 -  I’m interested in Java EE projects
--  I’m currently learning about spring securityand data
+-  I’m currently learning about spring security
 - 💞️ I’m looking to collaborate on microservices projects 
 - 📫 wanna reach me? hafssa.bourin2468@gmail.com
 
